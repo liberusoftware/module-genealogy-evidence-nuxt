@@ -1,0 +1,15 @@
+{
+  "repository": "module-genealogy-evidence-nuxt",
+  "capabilityKey": "liberusoftware/module-genealogy-evidence",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-genealogy-evidence-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/genealogy/nextjs/evidence.md",
+  "presentationPlan": "projects/genealogy/nuxt/evidence.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "genealogy"
+  ]
+}
